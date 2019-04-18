@@ -1,0 +1,6 @@
+﻿  TestLinkedList.cpp
+c:\users\zeros\onedrive\ctc\2019 spring\itse 2486\l3\linkedlist\linkedlist\linkedlist.h(88): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\zeros\onedrive\ctc\2019 spring\itse 2486\l3\linkedlist\linkedlist\linkedlist.h(113): note: see reference to class template instantiation 'LinkedList<T>' being compiled
+c:\users\zeros\onedrive\ctc\2019 spring\itse 2486\l3\linkedlist\linkedlist\linkedlist.h(189): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  LinkedList.vcxproj -> C:\Users\zeros\OneDrive\CTC\2019 Spring\ITSE 2486\L3\LinkedList\Debug\LinkedList.exe
+  LinkedList.vcxproj -> C:\Users\zeros\OneDrive\CTC\2019 Spring\ITSE 2486\L3\LinkedList\Debug\LinkedList.pdb (Full PDB)
